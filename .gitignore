@@ -3,3 +3,6 @@
 /sbtboot
 /project/target
 /project/project
+ensime-langserver.log
+
+pc.stdout.log

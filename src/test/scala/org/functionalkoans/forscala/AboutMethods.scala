@@ -13,7 +13,7 @@ class AboutMethods extends KoanSuite {
     def add(x: Int, y: Int) = {
       x + y
     }
-    add(6, 7) should be(__)
+    add(6, 7) should be(13)
   }
 
   koan(
@@ -23,7 +23,7 @@ class AboutMethods extends KoanSuite {
       //Notice the :Int at the end of the method
       x + y
     }
-    add(2, 10) should be(__)
+    add(2, 10) should be(12)
   }
 
 
