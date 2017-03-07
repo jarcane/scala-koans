@@ -6,3 +6,4 @@
 ensime-langserver.log
 
 pc.stdout.log
+.ensime*
