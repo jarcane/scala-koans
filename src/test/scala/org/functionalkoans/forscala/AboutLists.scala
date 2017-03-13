@@ -7,7 +7,7 @@ class AboutLists extends KoanSuite {
   koan("Eq tests identity (same object)") {
     val a = List(1, 2, 3)
     val b = List(1, 2, 3)
-    (a eq b) should be(__)
+    (a eq b) should be(false)
   }
 
   koan("== tests equality (same content)") {
