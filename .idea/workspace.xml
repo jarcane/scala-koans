@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="8a4034da-edac-4eea-8817-397027fd13c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraits.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraits.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutForExpressions.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutForExpressions.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixPrefixAndPostfixOperators.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixPrefixAndPostfixOperators.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixTypes.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixTypes.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutIterables.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutIterables.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableMaps.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableMaps.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableSets.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableSets.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutSequencesAndArrays.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutSequencesAndArrays.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/target/resolution-cache/" />
     <ignored path="$PROJECT_DIR$/target/streams/" />
@@ -74,33 +80,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AboutImplicits.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutImplicits.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1494">
-              <caret line="85" column="58" lean-forward="false" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
-              <folding>
-                <element signature="e#38#82#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AboutTraits.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraits.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1283">
-              <caret line="331" column="118" lean-forward="false" selection-start-line="331" selection-start-column="118" selection-end-line="331" selection-end-column="118" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AboutForExpressions.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutForExpressions.scala">
+      <file leaf-file-name="AboutTraversables.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -131,6 +115,13 @@
         <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPartialFunctions.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutImplicits.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraits.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutForExpressions.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixPrefixAndPostfixOperators.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixTypes.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableMaps.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableSets.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutSequencesAndArrays.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutIterables.scala" />
       </list>
     </option>
   </component>
@@ -162,7 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -236,13 +227,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="aboutfore&#9;null&#9;null&#10;AboutTr&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="abouttrav&#9;null&#9;null&#10;aboutiter&#9;null&#9;null&#10;aboutseq&#9;null&#9;null&#10;aboutmut&#9;null&#9;null&#10;aboutmuta&#9;null&#9;null&#10;infi&#9;null&#9;null&#10;aboutinf&#9;null&#9;null&#10;aboutfore&#9;null&#9;null&#10;AboutTr&#9;null&#9;null" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../reittimylly" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
@@ -769,7 +760,8 @@
       <option name="presentableId" value="Default" />
       <updated>1489410105552</updated>
       <workItem from="1489410112922" duration="7169000" />
-      <workItem from="1489482149866" duration="2547000" />
+      <workItem from="1489482149866" duration="2623000" />
+      <workItem from="1489489434968" duration="2605000" />
     </task>
     <servers />
   </component>
@@ -779,7 +771,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9716000" />
+    <option name="totallyTimeSpent" value="12397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3909" y="39" width="2454" height="2031" extended-state="0" />
@@ -801,7 +793,7 @@
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39659467" sideWeight="0.49837002" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16445182" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16569768" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -845,88 +837,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraits.scala">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5958">
+          <caret line="331" column="118" lean-forward="false" selection-start-line="331" selection-start-column="118" selection-end-line="331" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutForExpressions.scala">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutLists.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1692">
-          <caret line="126" column="25" lean-forward="true" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMaps.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1692">
-          <caret line="124" column="40" lean-forward="false" selection-start-line="124" selection-start-column="40" selection-end-line="124" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutSets.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1673">
-          <caret line="121" column="40" lean-forward="false" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutFormatting.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="49" column="97" lean-forward="false" selection-start-line="49" selection-start-column="97" selection-end-line="49" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutStringInterpolation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="31" column="108" lean-forward="false" selection-start-line="31" selection-start-column="108" selection-end-line="31" selection-end-column="108" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPatternMatching.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1602">
-          <caret line="164" column="17" lean-forward="false" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutCaseClasses.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1315">
-          <caret line="127" column="35" lean-forward="false" selection-start-line="127" selection-start-column="35" selection-end-line="127" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutRange.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPartiallyAppliedFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPartialFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1333">
-          <caret line="85" column="31" lean-forward="false" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -943,7 +863,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraits.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1283">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutLists.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="126" column="25" lean-forward="true" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMaps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="124" column="40" lean-forward="false" selection-start-line="124" selection-start-column="40" selection-end-line="124" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutSets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1673">
+          <caret line="121" column="40" lean-forward="false" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutFormatting.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="49" column="97" lean-forward="false" selection-start-line="49" selection-start-column="97" selection-end-line="49" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutStringInterpolation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="31" column="108" lean-forward="false" selection-start-line="31" selection-start-column="108" selection-end-line="31" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPatternMatching.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="164" column="17" lean-forward="false" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutCaseClasses.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1315">
+          <caret line="127" column="35" lean-forward="false" selection-start-line="127" selection-start-column="35" selection-end-line="127" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutRange.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPartiallyAppliedFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPartialFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1333">
+          <caret line="85" column="31" lean-forward="false" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutImplicits.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1494">
+          <caret line="85" column="58" lean-forward="false" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
+          <folding>
+            <element signature="e#38#82#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraits.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5958">
           <caret line="331" column="118" lean-forward="false" selection-start-line="331" selection-start-column="118" selection-end-line="331" selection-end-column="118" />
           <folding />
         </state>
@@ -951,8 +959,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutForExpressions.scala">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixPrefixAndPostfixOperators.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="50" column="28" lean-forward="false" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="40" column="78" lean-forward="false" selection-start-line="40" selection-start-column="78" selection-end-line="40" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableMaps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableSets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="52" column="26" lean-forward="false" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutSequencesAndArrays.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="47" column="36" lean-forward="false" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutIterables.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1315">
+          <caret line="89" column="41" lean-forward="false" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
         </state>
       </provider>
