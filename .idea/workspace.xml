@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4034da-edac-4eea-8817-397027fd13c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutForExpressions.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutForExpressions.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixPrefixAndPostfixOperators.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixPrefixAndPostfixOperators.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixTypes.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutInfixTypes.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutIterables.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutIterables.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableMaps.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableMaps.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableSets.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableSets.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutSequencesAndArrays.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutSequencesAndArrays.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/target/resolution-cache/" />
     <ignored path="$PROJECT_DIR$/target/streams/" />
@@ -80,11 +73,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AboutTraversables.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AboutTraversables.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1297">
+              <caret line="549" column="74" lean-forward="false" selection-start-line="549" selection-start-column="74" selection-end-line="549" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AboutNamedAndDefaultArguments.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutNamedAndDefaultArguments.scala">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -122,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutMutableSets.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutSequencesAndArrays.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutIterables.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala" />
       </list>
     </option>
   </component>
@@ -233,7 +237,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="abouttrav&#9;null&#9;null&#10;aboutiter&#9;null&#9;null&#10;aboutseq&#9;null&#9;null&#10;aboutmut&#9;null&#9;null&#10;aboutmuta&#9;null&#9;null&#10;infi&#9;null&#9;null&#10;aboutinf&#9;null&#9;null&#10;aboutfore&#9;null&#9;null&#10;AboutTr&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="aboutname&#9;null&#9;null&#10;abouttrav&#9;null&#9;null&#10;aboutiter&#9;null&#9;null&#10;aboutseq&#9;null&#9;null&#10;aboutmut&#9;null&#9;null&#10;aboutmuta&#9;null&#9;null&#10;infi&#9;null&#9;null&#10;aboutinf&#9;null&#9;null&#10;aboutfore&#9;null&#9;null&#10;AboutTr&#9;null&#9;null" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../reittimylly" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
@@ -761,7 +765,7 @@
       <updated>1489410105552</updated>
       <workItem from="1489410112922" duration="7169000" />
       <workItem from="1489482149866" duration="2623000" />
-      <workItem from="1489489434968" duration="2605000" />
+      <workItem from="1489489434968" duration="6500000" />
     </task>
     <servers />
   </component>
@@ -771,7 +775,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12397000" />
+    <option name="totallyTimeSpent" value="16292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3909" y="39" width="2454" height="2031" extended-state="0" />
@@ -1015,8 +1019,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1297">
+          <caret line="549" column="74" lean-forward="false" selection-start-line="549" selection-start-column="74" selection-end-line="549" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutNamedAndDefaultArguments.scala">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding />
         </state>
       </provider>
