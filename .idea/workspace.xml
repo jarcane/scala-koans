@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4034da-edac-4eea-8817-397027fd13c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutNamedAndDefaultArguments.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutNamedAndDefaultArguments.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPreconditions.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPreconditions.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTypeTags.scala" afterPath="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTypeTags.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/target/resolution-cache/" />
     <ignored path="$PROJECT_DIR$/target/streams/" />
@@ -73,21 +75,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AboutTraversables.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala">
+      <file leaf-file-name="AboutPreconditions.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPreconditions.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1297">
-              <caret line="549" column="74" lean-forward="false" selection-start-line="549" selection-start-column="74" selection-end-line="549" selection-end-column="74" />
+            <state relative-caret-position="360">
+              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AboutNamedAndDefaultArguments.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutNamedAndDefaultArguments.scala">
+      <file leaf-file-name="AboutExtractors.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutExtractors.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="90">
+              <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -126,6 +128,9 @@
         <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutSequencesAndArrays.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutIterables.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutNamedAndDefaultArguments.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTypeTags.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPreconditions.scala" />
       </list>
     </option>
   </component>
@@ -237,7 +242,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="aboutname&#9;null&#9;null&#10;abouttrav&#9;null&#9;null&#10;aboutiter&#9;null&#9;null&#10;aboutseq&#9;null&#9;null&#10;aboutmut&#9;null&#9;null&#10;aboutmuta&#9;null&#9;null&#10;infi&#9;null&#9;null&#10;aboutinf&#9;null&#9;null&#10;aboutfore&#9;null&#9;null&#10;AboutTr&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="aboutextr&#9;null&#9;null&#10;aboutprec&#9;null&#9;null&#10;aboutypet&#9;null&#9;null&#10;aboutname&#9;null&#9;null&#10;abouttrav&#9;null&#9;null&#10;aboutiter&#9;null&#9;null&#10;aboutseq&#9;null&#9;null&#10;aboutmut&#9;null&#9;null&#10;aboutmuta&#9;null&#9;null&#10;infi&#9;null&#9;null&#10;aboutinf&#9;null&#9;null&#10;aboutfore&#9;null&#9;null&#10;AboutTr&#9;null&#9;null" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../reittimylly" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
@@ -765,7 +770,7 @@
       <updated>1489410105552</updated>
       <workItem from="1489410112922" duration="7169000" />
       <workItem from="1489482149866" duration="2623000" />
-      <workItem from="1489489434968" duration="6500000" />
+      <workItem from="1489489434968" duration="7893000" />
     </task>
     <servers />
   </component>
@@ -775,7 +780,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16292000" />
+    <option name="totallyTimeSpent" value="17685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3909" y="39" width="2454" height="2031" extended-state="0" />
@@ -1027,8 +1032,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutNamedAndDefaultArguments.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="1332">
+          <caret line="80" column="36" lean-forward="false" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutTypeTags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="63" lean-forward="false" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+          <folding>
+            <element signature="e#38#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutPreconditions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/functionalkoans/forscala/AboutExtractors.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>
